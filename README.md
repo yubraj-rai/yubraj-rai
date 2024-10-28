@@ -1,2 +1,2 @@
 ## Hi there 👋
-Software engineer focused on backend systems, C/C++ and Python.
+Software engineer focused on plaformt engineering, Lang-C/C++ and Scripts-Python/Shell.

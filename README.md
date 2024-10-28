@@ -1,2 +1,2 @@
 ## Hi there 👋
-Software engineer focused on plaform engineering, Lang-C/C++ and Scripts-Python/Shell.
+I’m a software engineer focused on platform engineering, with expertise in dev-c/c++, python.
